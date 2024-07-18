@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Airflow related
+airflow-data/logs
+airflow-data/plugins
+logs/
+plugins/
+__pycache__
+
 # Distribution / packaging
 .Python
 build/
